@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @huzhouv
-- 👀 I’m interested in programming, reading ...
+- 👀 I’m interested in programming, i am expert in java, go, javascript, python etc.
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Send me an email to concat me please: huzhou.v@gmail.com.
 
 <!---
 huzhouv/huzhouv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
